@@ -72,7 +72,7 @@ cheesy_poofs = Ingredient.new("Cheesy Poof", 1.5)
 
 
 
-# * The Concorde has a maximum carrying capacity (max cargo weight) of 20,000 lbs.
+#  The Concorde has a maximum carrying capacity (max cargo weight) of 20,000 lbs.
 # * We have to share our cargo with someone else who wants Cheesy Poofs.
 # * Each ingredient has a name and weight
 # * A single Brussels sprout weighs 20 grams.
